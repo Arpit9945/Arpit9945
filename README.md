@@ -1,14 +1,13 @@
-# Hi there, I'm Arpit 👋
+# Hi, I'm Arpit 👋
 
-### Software Developer | Building Web & App Platforms
+### Software Developer
 
-I build full-stack platforms — from store management systems to fintech-style jewellery-tech applications with WhatsApp integrations.
+Passionate about building clean, efficient, and user-friendly web and app solutions. I enjoy turning ideas into functional products and constantly learning new technologies.
 
-- 🔭 Currently working on **StoreMate** — a store management platform
-- 💬 Also building **BJ-App** — a WhatsApp webhook system for jewellery business
-- 🌱 Exploring digital gold purchasing platforms & pledge loan management systems
-- 📫 Reach me: arpitpattani2004@gmail.com
+- 💻 Software Developer specializing in Web & App Development
+- 🌱 Always learning and exploring new tools & frameworks
 - 📍 Based in Ahmedabad, India
+- 📫 Reach me at: arpitpattani2004@gmail.com
 
 ---
 
@@ -28,16 +27,7 @@ I build full-stack platforms — from store management systems to fintech-style 
 
 ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit9945&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit9945&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Arpit9945&theme=radical&hide_border=true)
-
----
-
-### 🚀 Featured Projects
-
-- **[StoreMate](https://github.com/Arpit9945/storemate)** — Store management platform with custom React component library
-- **[BJ-App](https://github.com/Arpit9945/bj-app)** — WhatsApp webhook system for Bhavani Jewels
 
 ---
 
