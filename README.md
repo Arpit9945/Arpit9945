@@ -1,16 +1,15 @@
-# Hi, I'm Arpit 👋
+### Hi there 👋
 
-Software Developer By Heart ❤️
-
-📍 Ahmedabad, India · 📫 arpitpattani2004@gmail.com
-
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arpit9945&theme=radical&hide_border=true)
+* 💻 Full Stack Developer with 3+ years of experience building web & SaaS products using **Next.js, React, Node.js**, and **WordPress plugin development**.
+* 🚀 Currently building **Storemate Connect** — a WhatsApp & Instagram automation SaaS platform for small businesses (retail, jewellery, clinics), with WhatsApp Business API integrations (template messaging, broadcast flows) and Razorpay-based pay-per-use billing.
+* 🤖 Exploring AI API integrations to bring automation and intelligent workflows into everyday business tools.
+* 💍 Applying tech to real-world businesses — currently working with **Bhavani Jewels**, a family jewellery business, building custom automation and digital tools for it.
+* 🌱 Always learning — currently diving deeper into scalable SaaS architecture and AI-powered product features.
+* 📫 Reach me at: **arpitpattani2004@gmail.com**
+* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arpit-soni-5035482a2/)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpit9945&style=flat-square&color=blue" alt="profile views" />
-</p>
+### 🛠️ Tech Stack
+
+`Next.js` `React` `Node.js` `Express` `MongoDB` `WordPress` `REST APIs` `WhatsApp Business API` `Razorpay`
