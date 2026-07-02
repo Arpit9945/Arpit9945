@@ -11,4 +11,4 @@
 
 ### 🛠️ Tech Stack
 
-`Next.js` `React` `Node.js` `Express` `MongoDB` `WordPress` `REST APIs` `WhatsApp Business API` `Razorpay`
+`Next.js` `React` `Node.js` `Express` `Database Architecture` `WordPress` `REST APIs` `Meta API` `Payment Integrations`
