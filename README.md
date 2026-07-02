@@ -7,8 +7,6 @@ Software Developer By Heart ❤️
 
 ### 📊 GitHub Stats
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit9945&show_icons=true&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Arpit9945&theme=radical&hide_border=true)
 
 ---
